@@ -27,7 +27,7 @@ body {
     height: 100vh;
     width: 100vw;
 
-    background-color: black;
+    background-color: red;
 
     font-size: 15px;
     font-family: var(--font_1); /*Weights: 200, 400, 600*/
