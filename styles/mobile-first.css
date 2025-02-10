@@ -27,7 +27,7 @@ body {
     height: 100vh;
     width: 100vw;
 
-    background-color: red;
+    background-color: blue;
 
     font-size: 15px;
     font-family: var(--font_1); /*Weights: 200, 400, 600*/
@@ -53,9 +53,17 @@ section {
     background-color: var(--Very_Light_Gray);
 }
 
+p {
+    max-width: 400px;
+
+    text-align: center;
+}
+
 div.subitem {
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
     max-width: 400px;
+
+    text-align: center;
 }
