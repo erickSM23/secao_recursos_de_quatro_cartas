@@ -44,18 +44,27 @@ main {
 
 section {
     height: 100vh;
-    min-width: 200px;
-    max-width: 600px;
-    padding: 20px;
+    min-width: 100px;
+    max-width: 1000px;
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
 
     background-color: var(--Very_Light_Gray);
+}
 
-    text-align: center;
+div.subitem {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+h1, h2, h3, h4, h5 {
+    font-size: 2em;
 }
 
 p {
     max-width: 50%;
-    text-align: center;
-    display: block;
-    margin: auto;
 }
