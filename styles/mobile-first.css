@@ -63,8 +63,8 @@ div#cmc {
     text-align: center;
 }
 
-div#cmc > h1 {
-
+div#cmc > h1 {  
+    font-size: 15px;
 }
 
 di#cmc > p {
