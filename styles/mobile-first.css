@@ -44,28 +44,30 @@ main {
 
 section {
     height: 100vh;
-    min-width: 100px;
-    max-width: 1000px;
-    display: flex;
-    flex-flow: column nowrap;
-    padding: 5px;
+    display: grid;
     justify-content: center;
-    align-items: center;
+    align-content: center;
+    padding: 10px;
 
     background-color: var(--Very_Light_Gray);
 }
 
-div.subitem {
-    display: flex;
-    flex-flow: column nowrap;
-    align-items: center;
+div#cmc {
+    padding: 50px;
+
+    background-color: var(--Very_Dark_Blue);
+
+    text-align: center;
 }
 
-h1, h2, h3, h4, h5 {
+div#cmc > h1 {
     font-size: 2em;
 }
 
-p {
-    max-width: 50%;
-    text-align: center;
+di#cmc > p {
+    font-size: 15px;
+}
+
+div.caixas {
+
 }
