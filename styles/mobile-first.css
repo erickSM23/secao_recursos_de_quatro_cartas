@@ -53,6 +53,9 @@ section {
 }
 
 div#cmc {
+    display: block;
+    margin: auto;
+    width: 90%;
     padding: 50px;
 
     background-color: var(--Very_Dark_Blue);
@@ -61,7 +64,7 @@ div#cmc {
 }
 
 div#cmc > h1 {
-    font-size: 2em;
+
 }
 
 di#cmc > p {
