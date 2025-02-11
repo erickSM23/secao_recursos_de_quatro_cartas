@@ -46,7 +46,6 @@ section {
     height: 100vh;
     display: grid;
     justify-content: center;
-    align-content: center;
     padding: 10px;
 
     background-color: var(--Very_Light_Gray);
@@ -74,5 +73,8 @@ di#cmc > p {
 }
 
 div.caixas {
+    width: 90%;
+    margin: auto;
 
+    background-color: var(--Grayish_Blue);
 }
