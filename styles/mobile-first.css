@@ -61,8 +61,8 @@ div#cmc {
     text-align: center;
 }
 
-div#cmc > h1 {  
-    padding-bottom: 20px;
+div#cmc > h1, h2, h3 {  
+    padding-bottom: 1px;
 
     font-size: 27px;           
 }
@@ -80,6 +80,8 @@ div#cmc > h1#t2 {
 }
 
 div#cmc > p {
+    padding-top: 10px;
+
     color: var(--Grayish_Blue);
 
     font-weight: 400;
