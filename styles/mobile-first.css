@@ -57,8 +57,7 @@ div#cmc {
     width: 90%;
     padding: 0px;
 
-    background-color: var(--Orange);
-
+   
     text-align: center;
 }
 
@@ -68,7 +67,22 @@ div#cmc > h1 {
     font-size: 27px;           
 }
 
-di#cmc > p {
+div#cmc > h1#t1 {
+    color: var(--Very_Dark_Blue);
+
+    font-weight: 200;
+}
+
+div#cmc > h1#t2 {
+    color: var(--Very_Dark_Blue);
+
+    font-weight: 600;
+}
+
+div#cmc > p {
+    color: var(--Grayish_Blue);
+
+    font-weight: 400;
     font-size: 15px;
 }
 
