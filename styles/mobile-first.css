@@ -56,9 +56,9 @@ div#cmc {
     display: block;
     margin: auto;
     width: 90%;
-    padding: 50px;
+    padding: 0px;
 
-    background-color: var(--Very_Dark_Blue);
+    background-color: var(--Orange);
 
     text-align: center;
 }
