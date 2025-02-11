@@ -58,14 +58,15 @@ div#cmc {
     width: 90%;
     padding: 0px;
 
-    background-color: var(--Cyan);
+    background-color: var(--Orange);
 
     text-align: center;
 }
 
 div#cmc > h1 {  
-    font-size: 28px /*27px*/;
-               
+    padding-bottom: 20px;
+
+    font-size: 27px;           
 }
 
 di#cmc > p {
