@@ -104,6 +104,19 @@ div.caixas {
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.607);
 }
 
+div.ico {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: flex-end;
+    justify-content: flex-end;
+    height: 120px;
+
+}
+
+img#imagem1 {
+    width: 11%;
+}
+
 div#c1 {
     border-top: 5px solid var(--Cyan);
 }
