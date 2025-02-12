@@ -109,7 +109,7 @@ div.ico {
     flex-flow: row nowrap;
     align-items: flex-end;
     justify-content: flex-end;
-    height: 120px;
+    height: 70px;
 
     background-color: var(--Very_Dark_Blue);
 }
