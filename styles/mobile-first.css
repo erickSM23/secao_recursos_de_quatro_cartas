@@ -118,6 +118,16 @@ img#imagem1 {
     width: 11%;
 }
 
+div.ico2 {
+    margin-top: 60px;
+    text-align: end;
+    background-color: var(--Very_Dark_Blue);
+}
+
+image#imagem2 {
+   
+}
+
 div#c1 {
     border-top: 5px solid var(--Cyan);
 }
