@@ -84,7 +84,7 @@ div#cmc > h1#t2 {
 div#cmc > p {
     margin: auto;
     display: block;
-    max-width: 50%;
+    max-width: 70%;
     padding-top: 10px;
 
     color: var(--Grayish_Blue);
