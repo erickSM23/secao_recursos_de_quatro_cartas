@@ -82,12 +82,14 @@ div#cmc > h1#t2 {
 }
 
 div#cmc > p {
+    background-color: var(--Orange);
     padding-top: 10px;
 
     color: var(--Grayish_Blue);
 
     font-weight: 400;
     font-size: 15px;
+    text-align: left;
 }
 
 div.caixas {
