@@ -111,6 +111,7 @@ div.ico {
     justify-content: flex-end;
     height: 120px;
 
+    background-color: var(--Very_Dark_Blue);
 }
 
 img#imagem1 {
