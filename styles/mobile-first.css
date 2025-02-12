@@ -122,6 +122,10 @@ div#c1 {
     border-top: 5px solid var(--Cyan);
 }
 
+div#c1 > h1 {
+    padding-bottom: 20px;
+}
+
 div#c2 {
     border-top: 5px solid var(--Red);
 }
