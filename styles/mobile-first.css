@@ -112,22 +112,9 @@ div.ico {
     height: 65px;
 }
 
-img#imagem1 {
+img.imagemmm {
     width: 25%;
 }
-
-img#imagem2 {
-    width: 25%;
-}
-
-img#imagem3 {
-    width: 25%;
-}
-
-img#imagem4 {
-    width: 25%;
-}
-
 
 div#c1 {
     border-top: 5px solid var(--Cyan);
