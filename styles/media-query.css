@@ -26,6 +26,8 @@
 
     div.caixas {
         width: 400px;
+
+        box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.21);
     }
 
     div#x1 {
